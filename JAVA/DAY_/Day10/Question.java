@@ -1,3 +1,4 @@
+package Day10;
 //  create a string which stores name of a person and create a method which add last name in original name .
 // write a java program to reverse a string.
 import java.lang.StringBuilder;

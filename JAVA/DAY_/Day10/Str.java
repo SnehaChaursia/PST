@@ -1,3 +1,4 @@
+package Day10;
 // String literals are immutable.
 public class Str {
 

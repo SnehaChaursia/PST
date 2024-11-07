@@ -1,3 +1,4 @@
+package Day10;
 // import java.util.*;
 import java.lang.StringBuilder;
 public class Question1 {
