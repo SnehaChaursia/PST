@@ -1,0 +1,14 @@
+what is URL?
+Uniform Resource Locator
+
+https://www.sneha.dev/
+http:hypertext transfer protocol (s-secure)
+www.sneha.dev: Domain - User Friendly Name of IP address of any server.
+/ : home path on main page
+other than this we can have many different path like:
+/about,
+/contact us.
+
+Query Parameter: /about? it belongs to query parameter "?",
+
+

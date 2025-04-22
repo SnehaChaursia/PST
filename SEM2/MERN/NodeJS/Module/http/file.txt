@@ -1,0 +1,6 @@
+http  methods 
+GET : when we want some data from server 
+POST: whatever data we send to the server.
+PUT : for uploading something like.
+PATCH : changing any existing entry
+DELETE : deleting something

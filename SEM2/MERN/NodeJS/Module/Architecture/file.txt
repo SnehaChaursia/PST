@@ -1,0 +1,7 @@
+clients make request to server
+all req. queue in event queue  follows first in first out 
+blocking operation and non blocking operation 
+blocking operation assign  the work to thread pool
+by default thread pool size is 4 , and max depend on core 8core- 8 thread
+const os=require("os);
+console.log(os.cpus().length)
